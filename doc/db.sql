@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : 182.106.129.91
- Source Server Type    : MySQL
- Source Server Version : 50635
- Source Host           : 182.106.129.91
- Source Database       : jxtelecom
-
- Target Server Type    : MySQL
- Target Server Version : 50635
- File Encoding         : utf-8
-
- Date: 05/12/2017 14:03:57 PM
-*/
-
 SET NAMES utf8;
 SET FOREIGN_KEY_CHECKS = 0;
 
